@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KAEE,wBAAyB,CACzB,oBAAqB,CACrB,gBACF","file":"main.1b363d68.chunk.css","sourcesContent":["body {\r\n  -moz-user-select: none;\r\n  -webkit-user-select: none;\r\n  -ms-user-select: none;\r\n  user-select: none;\r\n}\r\n"]}
